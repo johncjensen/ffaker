@@ -1,3 +1,22 @@
+#Now Featuring EDM Ipsum
+##### EDM Ipsum Usage
+```ruby
+require 'ffaker'
+Faker::EdmIpsum.word
+Faker::EdmIpsum.sentence
+Faker::EdmIpsum.paragraph
+```
+
+```ruby
+»  Faker::EdmIpsum.sentence
+=> "Trip hop Sander van Doorn Umek Breakcore Tommy Trash Miami bass Downtempo."
+```
+
+you get the idea.... enjoy!
+![](http://f.cl.ly/items/14282z2E2C0t3J1u0516/tumblr_miad1nvDcA1s13d7fo1_500.gif)
+
+
+
 # ffaker
 
 [ffaker](http://rubygems.org/gems/ffaker) is a rewrite of [faker](http://rubygems.org/gems/faker).
