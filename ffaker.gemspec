@@ -89,6 +89,7 @@ Gem::Specification.new do |s|
     lib/ffaker/data/education/school_suffix
     lib/ffaker/data/healthcare_ipsum/healthcare_words
     lib/ffaker/data/hipster_ipsum/hipster_words
+    lib/ffaker/data/edm_ipsum/edm_words
     lib/ffaker/data/job/job_adj
     lib/ffaker/data/job/job_noun
     lib/ffaker/data/job/job_prefix
@@ -161,6 +162,7 @@ Gem::Specification.new do |s|
     lib/ffaker/geolocation.rb
     lib/ffaker/healthcare_ipsum.rb
     lib/ffaker/hipster_ipsum.rb
+    lib/ffaker/edm_ipsum.rb
     lib/ffaker/html_ipsum.rb
     lib/ffaker/identification.rb
     lib/ffaker/identification_es.rb
